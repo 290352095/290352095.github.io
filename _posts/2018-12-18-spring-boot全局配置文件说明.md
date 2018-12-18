@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      spring-boot全局配置文件说明
+subtitle:   持续更新
+date:       2018-12-17
+author:     LSC
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - java
+    - Spring Boot
+---
+
+>spring-boot全局配置文件说明
+
 # spring-boot全局配置文件说明
 
 ```java
